@@ -42,8 +42,8 @@ from uuid import uuid4
 client=aminofix.Client()
 os.system("clear")
 print("\t\033[1;32m Champu1.0  \033[1;36m Community Bot \n\n")
-email="aqilkhan1358@gmail.com"
-password="577710"
+email=""
+password=""
 
 client.login(email=email,password=password)
 cid="23702820"
